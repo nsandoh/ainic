@@ -33,6 +33,7 @@ title: 5 claves para entender a los sistemas recomendadores conversacionales
 <li>Diálogo basado en la resolución de problemas: en este tipo de diálogo, el usuario presenta un problema o una necesidad al sistema y éste ofrece soluciones o recomendaciones para resolverlo.</li>
 <li> Diálogo basado en el intercambio de información: en este tipo de diálogo, el usuario y el sistema intercambian información sobre un tema específico, con el objetivo de aprender o comprender mejor algo. </li>
 <li> Diálogo basado en el aprendizaje y la adaptación: en este tipo de diálogo, el sistema aprende de las interacciones con el usuario y se adapta a sus necesidades y preferencias a medida que avanza el diálogo.</li>
+  </ol>
 <p>En general, los diálogos con un sistema conversacional pueden ser más o menos estructurados, dependiendo del objetivo del sistema y de la naturaleza de la interacción con el usuario.</p>
   
 ### Qué es natural language understanding
