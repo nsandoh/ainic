@@ -24,3 +24,4 @@ title:  Modela problemas complejos con redes neuronales gráficas y obten grande
 <li>Pérdida de información: Al procesar los grafos a través de capas de procesamiento, es posible que se pierda información importante.</li>
 <li>Dificultad para interpretar los resultados: A veces puede ser difícil interpretar los resultados obtenidos a partir de las GNNs debido a su complejidad.</li>
 <li>Requisitos de hardware: El entrenamiento y el procesamiento de las GNNs pueden requerir un hardware de alta potencia y pueden ser costosos de implementar.</li>
+ </ol>
