@@ -14,8 +14,7 @@ title:  Modela problemas complejos con redes neuronales gráficas y obten grande
 
  ![_config.yml]({{ site.baseurl }}/images/Captura de Pantalla 2022-12-19 a la(s) 21.28.15.png)
  
- <br>
- ### Desafíos de las redes neuronales gráficas
+### Desafíos de las redes neuronales gráficas
  
 <p> Las GNN aunque son muy útiles para resolver una amplia variedad de problemas, también presentan algunos desafíos:</p>
 <ol>
